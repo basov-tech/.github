@@ -43,7 +43,7 @@
 <p>
     <samp>
         <strong>Education and Mentorship Program</strong>,
-        Designed for individuals aspiring to become proficient software developers,
+        designed for individuals aspiring to become proficient software developers,
         offers an <strong>excellent opportunity</strong> to acquire <strong>programming skills</strong> from passionate
         and <strong>experienced professionals</strong> in the field.
     </samp>
