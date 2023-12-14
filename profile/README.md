@@ -30,8 +30,8 @@
 </p>
 <p>
     <samp>
-        The cutting-edge initiative, currently in its MVP phase,
-        aims to provide individuals with a practical and customizable home assistant application,
+        The <strong>cutting-edge initiative</strong>, currently in its MVP phase,
+        aims to <strong>provide individuals</strong> with a practical and <strong>customizable home assistant</strong> application,
         with more information forthcoming.
     </samp>
 </p>
@@ -42,10 +42,10 @@
 </p>
 <p>
     <samp>
-        Education and Mentorship Program,
+        <strong>Education and Mentorship Program</strong>,
         Designed for individuals aspiring to become proficient software developers,
-        offers an excellent opportunity to acquire programming skills from passionate
-        and experienced professionals in the field.
+        offers an <strong>excellent opportunity</strong> to acquire <strong>programming skills</strong> from passionate
+        and <strong>experienced professionals</strong> in the field.
     </samp>
 </p>
 
